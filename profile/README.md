@@ -1,10 +1,6 @@
 # Powershell profile files
-
 ## profile file 
-
-*************************
-Module information
-*************************
+### Module information
 
 Terminal icons
 Install-Module -Name Terminal-Icons -Repository PSGallery -Scope CurrentUser
@@ -20,5 +16,3 @@ PSReadLine
 Install-Module PSReadLine -Repository PSGallery -Scope CurrentUser
 Currently using 2.2.2
 https://github.com/PowerShell/PSReadLine
-
-## oh-my-posh settings
