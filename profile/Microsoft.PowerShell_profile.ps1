@@ -15,5 +15,5 @@ SerializationVersion           1.1.0.1
 #>
 Import-Module -Name Terminal-Icons
 import-module oh-my-posh
-oh-my-posh --init --shell pwsh --config 'F:\Total World Domination\Powershell\oh-my-posh-profile.json' | invoke-expression
+oh-my-posh --init --shell pwsh --config 'F:\git\powershell\profile\oh-my-posh-profile.json' | invoke-expression
 cd c:\
