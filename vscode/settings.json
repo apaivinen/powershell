@@ -1,4 +1,7 @@
 {
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": true,
+    "explorer.confirmDragAndDrop": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.wordWrap": "on",
     "editor.renderWhitespace": "boundary",
@@ -6,11 +9,13 @@
         "editorWhitespace.foreground": "#00ff40"
     },
     "workbench.colorTheme": "Night Owl",
+    "workbench.editor.enablePreview": false,
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": true,
     "editor.guides.bracketPairsHorizontal": true,
-    "workbench.editor.enablePreview": false,
+    "editor.guides.highlightActiveIndentation": true,
     "editor.fontFamily": "'CaskaydiaCove Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.cursorBlinking": "smooth",
     "editor.formatOnType": true,
     "editor.fontLigatures": true,
 
