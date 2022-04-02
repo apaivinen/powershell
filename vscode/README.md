@@ -1,6 +1,6 @@
 # Visual studio code settings
 
-Some settings require extensions or fonts. 
+Some settings require extensions or fonts.
 currently using Night owl theme & Fira Code Font
 
 # Fonts
@@ -17,9 +17,6 @@ currently using Night owl theme & Fira Code Font
     - https://www.dafont.com/nineteen-ninety-seven.font
 - MineCrafter
     - https://www.dafont.com/minecrafter.font
-
-
-
 
 ## My *Go-To* extensions
 
