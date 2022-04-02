@@ -8,17 +8,17 @@ currently using Night owl theme & Fira Code Font
     - https://github.com/tonsky/FiraCode
 - NerdFonts
     -  https://www.nerdfonts.com/font-downloads
-# Font configs
+## Font configs
 - How to enable stylistic sets
     - https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets
 
-# Fonts to be tested
+## Fonts to be tested
 - Ninteen Ninety Seven
     - https://www.dafont.com/nineteen-ninety-seven.font
 - MineCrafter
     - https://www.dafont.com/minecrafter.font
 
-## My *Go-To* extensions
+# My *Go-To* extensions
 
 ### Name: indent-rainbow
 - Id: oderwat.indent-rainbow
