@@ -1,9 +1,25 @@
 # Visual studio code settings
 
 Some settings require extensions or fonts. 
-currently using Night owl theme & CaskaydiaCove Nerd Font
+currently using Night owl theme & Fira Code Font
 
-https://www.nerdfonts.com/font-downloads
+# Fonts
+- FiraCode
+    - https://github.com/tonsky/FiraCode
+- NerdFonts
+    -  https://www.nerdfonts.com/font-downloads
+# Font configs
+- How to enable stylistic sets
+    - https://github.com/tonsky/FiraCode/wiki/How-to-enable-stylistic-sets
+
+# Fonts to be tested
+- Ninteen Ninety Seven
+    - https://www.dafont.com/nineteen-ninety-seven.font
+- MineCrafter
+    - https://www.dafont.com/minecrafter.font
+
+
+
 
 ## My *Go-To* extensions
 

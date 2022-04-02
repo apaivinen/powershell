@@ -14,10 +14,13 @@
     "editor.guides.bracketPairs": true,
     "editor.guides.bracketPairsHorizontal": true,
     "editor.guides.highlightActiveIndentation": true,
-    "editor.fontFamily": "'CaskaydiaCove Nerd Font', Consolas, 'Courier New', monospace",
     "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "block",
     "editor.formatOnType": true,
-    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code'", //'CaskaydiaCove Nerd Font', Consolas, 'Courier New', monospace
+    //"editor.fontLigatures": true,
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum','cv14'",
+    "editor.fontWeight": "400",
 
     "[plaintext]": {
         "editor.language.colorizedBracketPairs": [
@@ -30,6 +33,6 @@
     "security.workspace.trust.untrustedFiles": "newWindow",
     "explorer.confirmDelete": false,
     "git.confirmSync": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 2,
     "git.enableSmartCommit": true
 }
