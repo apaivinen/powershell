@@ -14,6 +14,7 @@ https://github.com/devblackops/Terminal-Icons
 ```powershell
 Install-Module -Name oh-my-posh -Repository PSGallery -Scope CurrentUser
 ```
+Link for emojis http://unicode.org/emoji/charts/full-emoji-list.html
 
 Currently using 7.49.0
 
