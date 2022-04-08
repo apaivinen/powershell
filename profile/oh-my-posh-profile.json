@@ -39,16 +39,6 @@
           },
           "style": "powerline",
           "type": "git"
-        },
-        {
-          "background": "#86BBD8",
-          "foreground": "#ffffff",
-          "powerline_symbol": "\ue0b0",
-          "properties": {
-            "template": " \ue718 {{ if .PackageManagerIcon }}{{ .PackageManagerIcon }} {{ end }}{{ .Full }} "
-          },
-          "style": "powerline",
-          "type": "node"
         }
       ],
       "type": "prompt"
