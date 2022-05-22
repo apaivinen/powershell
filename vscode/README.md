@@ -17,7 +17,8 @@ currently using Night owl theme & Fira Code Font
     - https://www.dafont.com/nineteen-ninety-seven.font
 - MineCrafter
     - https://www.dafont.com/minecrafter.font
-
+- Source Code Pro
+    - https://fonts.google.com/specimen/Source+Code+Pro#standard-styles
 # My *Go-To* extensions
 
 ### Name: indent-rainbow
